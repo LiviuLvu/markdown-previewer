@@ -2,7 +2,7 @@
 
 Type markdown into the text area. You will see a preview of the output markdown, updated as you type.
 
-[Live app link: ](liviulvu.github.io/markdown-previewer)
+[Live app link: liviulvu.github.io/markdown-previewer](liviulvu.github.io/markdown-previewer)
 
 
 Markdown library used: [https://github.com/chjj/marked](https://github.com/chjj/marked)
